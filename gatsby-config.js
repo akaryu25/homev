@@ -3,7 +3,7 @@ module.exports = {
     title: `Inverno Rosso`,
     description: `A puzzle`,
     author: `me`,
-    //siteUrl: `https://www.gatsbyjs.com`,
+    siteUrl: `https://dry-paper-2637.on.fleek.co/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
