@@ -3,7 +3,7 @@ module.exports = {
     title: `Inverno Rosso`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `me`,
-    siteUrl: `https://www.gatsbyjs.com`,
+    //siteUrl: `https://www.gatsbyjs.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
