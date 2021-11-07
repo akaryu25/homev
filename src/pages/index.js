@@ -12,11 +12,11 @@ const IndexPage = () => (
     <p>Risolvi enigma.</p>
     <p>Now go build something great.</p>
     <StaticImage
-      src="../images/gatsby-astronaut.png"
+      src="../images/tesseract-first.png"
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
-      alt="A Gatsby astronaut"
+      alt="The first piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
     <p>
