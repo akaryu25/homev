@@ -20,24 +20,9 @@ const IndexPage = () => (
       style={{ marginBottom: `1.45rem` }}
     />
     <p> </p>
-    <StaticImage
-      src="../images/tesseract-third.png"
-      width={300}
-      quality={95}
-      formats={["auto", "webp", "avif"]}
-      alt="The second piece of the puzzle"
-      style={{ marginBottom: `1.45rem` }}
-    />
-    <p> </p>
-    <StaticImage
-      src="../images/tesseract-final.png"
-      width={300}
-      quality={95}
-      formats={["auto", "webp", "avif"]}
-      alt="The final piece of the puzzle"
-      style={{ marginBottom: `1.45rem` }}
-    />
-    <p> </p>
+    <p>
+      <Link to="/page2/">STEP 2</Link> <br />
+    </p>
     <p>
       <Link to="/page2/">STEP 2</Link> <br />
     </p>
