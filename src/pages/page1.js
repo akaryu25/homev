@@ -21,10 +21,10 @@ const page1 = () => (
     />
     <p> </p>
     <p>
-      <Link to="/page1/">STEP 1</Link> <br />
+      <Link to="/">HOME</Link> <br />
     </p>
     <p>
-      <Link to="/page2/">STEP 3</Link> <br />
+      <Link to="/page2/">STEP 2</Link> <br />
     </p>
   </Layout>
 )
