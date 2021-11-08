@@ -21,7 +21,7 @@ const page1 = () => (
     />
     <p> </p>
     <p>
-      <Link to="/">HOME</Link> <br />
+      <Link to="/">Cover</Link> <br />
     </p>
     <p>
       <Link to="/page2/">STEP 2</Link> <br />
