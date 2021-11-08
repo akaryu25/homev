@@ -21,7 +21,7 @@ const IndexPage = () => (
     />
     <p> </p>
     <p>
-      <Link to="/page1/">STEP 1</Link> <br />
+      <Link to="/page1/">Reveal</Link> <br />
     </p>
     <p>
       <Link to="/page2/">STEP 2</Link> <br />
