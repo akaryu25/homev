@@ -19,6 +19,7 @@ const IndexPage = () => (
       alt="The first piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
+    <p> </p>
     <StaticImage
       src="../images/tesseract-third.png"
       width={300}
@@ -27,6 +28,7 @@ const IndexPage = () => (
       alt="The second piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
+    <p> </p>
     <StaticImage
       src="../images/tesseract-final.png"
       width={300}
@@ -35,6 +37,7 @@ const IndexPage = () => (
       alt="The final piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
+    <p> </p>
     <p>
       <Link to="/page-2/">Go to page 2</Link> <br />
     </p>
