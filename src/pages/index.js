@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>Il primo codice contiene tale informazione, una volta che ne sarai in possesso procedi con lo step successivo.</p>
     
     <StaticImage
-      src="../images/tesseract-first.png"
+      src="../images/tesseract-second.png"
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
