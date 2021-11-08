@@ -10,7 +10,7 @@ const IndexPage = () => (
     <Seo title="Home" />
     <p>Per risolvere questo eningma &egrave; necessario trovare il momento esatto.</p>
     <p>Il primo codice contiene tale informazione, una volta che ne sarai in possesso procedi con lo step successivo.</p>
-    <p>Now go build something great.</p>
+    
     <StaticImage
       src="../images/tesseract-first.png"
       width={300}
