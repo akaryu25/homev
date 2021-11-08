@@ -36,7 +36,10 @@ const Page2 = () => (
       style={{ marginBottom: `1.45rem` }}
     />
     <p>
-      <Link to="/page-2/">Go to page 2</Link> <br />
+      <Link to="/index/">STEP 1</Link> <br />
+    </p>
+    <p>
+      <Link to="/page2/">STEP 3</Link> <br />
     </p>
   </Layout>
 )
