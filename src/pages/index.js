@@ -8,8 +8,8 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    
-    <p>Risolvi enigma.</p>
+    <p>Per risolvere questo eningma &egrave; necessario trovare il momento esatto.</p>
+    <p>Il primo codice contiene tale informazione, una volta che ne sarai in possesso procedi con lo step successivo.</p>
     <p>Now go build something great.</p>
     <StaticImage
       src="../images/tesseract-first.png"
