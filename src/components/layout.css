@@ -52,7 +52,7 @@ template {
   display: none;
 }
 a {
-  background-color: transparent;
+  background-color: '#282828';
   -webkit-text-decoration-skip: objects;
 }
 a:active,
