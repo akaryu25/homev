@@ -8,17 +8,8 @@ import Seo from "../components/seo"
 const Page2 = () => (
   <Layout>
     <Seo title="Page2" />
-    
-    <p>Risolvi enigma.</p>
-    <p>Now go build something great.</p>
-    <StaticImage
-      src="../images/tesseract-first.png"
-      width={300}
-      quality={95}
-      formats={["auto", "webp", "avif"]}
-      alt="The first piece of the puzzle"
-      style={{ marginBottom: `1.45rem` }}
-    />
+   
+    <p>Ora che hai trovato il momento esatto, qui ci sono le istruzioni per risolvere l'eningma.</p>
     <StaticImage
       src="../images/tesseract-third.png"
       width={300}
@@ -27,6 +18,7 @@ const Page2 = () => (
       alt="The second piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
+    <p></p>
     <StaticImage
       src="../images/tesseract-final.png"
       width={300}
