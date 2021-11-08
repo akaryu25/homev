@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          //© {new Date().getFullYear()}
+         
         </footer>
       </div>
     </>
