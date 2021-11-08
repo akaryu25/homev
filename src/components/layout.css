@@ -54,8 +54,12 @@ template {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  color: white;
 }
 a:active,
+a:visited {
+  color: white;
+}
 a:hover {
   outline-width: 0;
 }
