@@ -5,9 +5,9 @@ import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const Page3 = () => (
+const Page2 = () => (
   <Layout>
-    <Seo title="Page3" />
+    <Seo title="Page2" />
    
     <p>Ora che hai trovato il momento esatto, qui ci sono le istruzioni per risolvere l'enigma.</p>
     <StaticImage
@@ -33,10 +33,7 @@ const Page3 = () => (
     <p>
       <Link to="/page1/">STEP 1</Link> <br />
     </p>
-    <p>
-      <Link to="/page2/">STEP 2</Link> <br />
-    </p>
   </Layout>
 )
 
-export default Page3
+export default Page2
