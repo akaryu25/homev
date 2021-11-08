@@ -41,4 +41,4 @@ const Page2 = () => (
   </Layout>
 )
 
-export default IndexPage
+export default Page2
