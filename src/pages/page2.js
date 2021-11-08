@@ -9,7 +9,7 @@ const Page2 = () => (
   <Layout>
     <Seo title="Page2" />
    
-    <p>Ora che hai trovato il momento esatto, qui ci sono le istruzioni per risolvere l'eningma.</p>
+    <p>Ora che hai trovato il momento esatto, qui ci sono le istruzioni per risolvere l'enigma.</p>
     <StaticImage
       src="../images/tesseract-third.png"
       width={300}
