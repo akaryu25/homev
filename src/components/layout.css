@@ -53,7 +53,6 @@ template {
 }
 a {
   background-color: transparent;
-  color: hsla(0, 0%, 0%, 0.8);
   -webkit-text-decoration-skip: objects;
 }
 a:active,
