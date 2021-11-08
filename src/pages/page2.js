@@ -39,7 +39,7 @@ const Page2 = () => (
       <Link to="/index/">STEP 1</Link> <br />
     </p>
     <p>
-      <Link to="/page2/">STEP 3</Link> <br />
+      <Link to="/page3/">STEP 3</Link> <br />
     </p>
   </Layout>
 )
