@@ -10,7 +10,6 @@ const Page2 = () => (
     <Seo title="Page2" />
     <p>...lunga ancora sicuramente &egrave; percorrere da strada la Ma. altro'nell o modo un in, migliori reso ha ci successo &egrave; che quello Tutto. ancora e Ancora. maturazione la per fondamentali sono errori gli tutti che idea'dell sono Io? influenzata stata fosse non vita nostra la e successo fosse non quello se ora mondo il sarebbe come immagini Ti</p>
     <p>.1 2 6 13 19 26 34 45 56 il importante solo &egrave forse Ma</p>
-    <p>Ora che hai trovato il momento esatto, qui ci sono le istruzioni per risolvere l'enigma.</p>
     <StaticImage
       src="../images/tesseract-third.png"
       width={300}
@@ -28,8 +27,8 @@ const Page2 = () => (
       alt="The final piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
-    <p>
-      <Link to="/page1/">Torna al momento</Link> <br />
+    <p>Questo è tutto il necessario per risolvere l'enigma. Se serve
+      <Link to="/page1/"> torna al momento</Link> <br />
     </p>
   </Layout>
 )
