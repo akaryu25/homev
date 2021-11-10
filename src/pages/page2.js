@@ -27,8 +27,8 @@ const Page2 = () => (
       alt="The final piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
-    <p>Questo &egrave; tutto il necessario per risolvere l'enigma. Se serve
-      <Link to="/page1/"> torna al momento</Link> <br />
+    <p>Questo &egrave; tutto il necessario per risolvere l'enigma. Se serve &nbsp;
+      <Link to="/page1/">torna al momento</Link> <br />
     </p>
   </Layout>
 )
