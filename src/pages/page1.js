@@ -26,7 +26,7 @@ const page1 = () => (
     </p>
     <p>
       Dovresti essere in grado di decifrare questo momento importante della storia, quando lo avrai fatto procedi 
-      <Link to="/page2/">qui</Link> <br />
+      <Link to="/page2/"> qui</Link> <br />
     </p>
   </Layout>
 )
