@@ -25,7 +25,8 @@ const IndexPage = () => (
       <Link to="/page1/">Reveal</Link> <br />
     </p>
     <p>
-      <Link to="/page2/">STEP 2</Link> <br />
+      Dovresti essere in grado di decifrare questo momento importante della storia, quando lo avrai fatto procedi 
+      <Link to="/page2/">qui</Link> <br />
     </p>
   </Layout>
 )
