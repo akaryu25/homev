@@ -34,11 +34,11 @@ const IndexPage = () => (
     />
     </p>
     <p>
-    Passato prossimo del verbo, terza persona singolare maschile, ma con il verbo ausiliare sbagliato = YESPASS.
+    Participio passato del verbo = ESPASS.
     </p>
 
     <p>
-    XYZKSYESYESPASS.
+    XYZKS YES YES PASS.
     </p>
 
     <p> <br /> <br /> </p>
