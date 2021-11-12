@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Inverno Rosso`,
+    title: `Gara Misera`,
     description: `A puzzle`,
     author: `me`,
     siteUrl: `https://www.gatsbyjs.com`,
