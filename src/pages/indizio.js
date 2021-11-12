@@ -10,7 +10,7 @@ const indizio = () => (
     <Seo title="Indizio" />
     
     <StaticImage
-      src="../images/indizio2.jpeg"
+      src="../images/indizio2.jpg"
       width={1200}
       quality={95}
       formats={["auto", "webp", "avif"]}
