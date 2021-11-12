@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gara Misera`,
+    title: `Homo Viator`,
     description: `A puzzle`,
     author: `me`,
     siteUrl: `https://www.gatsbyjs.com`,
