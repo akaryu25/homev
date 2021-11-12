@@ -18,12 +18,12 @@ const IndexPage = () => (
     />
     <p> </p>
     <p>
-      <Link to="/page1/">Reveal</Link> <br />
+      <Link to="/indizio/">MCMLXXXVI</Link>
     </p>
-    <p>
-      Dovresti essere in grado di decifrare questo momento importante della storia, quando lo avrai fatto procedi &nbsp;
-      <Link to="/page2/">qui</Link> <br />
-    </p>
+
+
+    <p> <br /> <br /> </p>
+    <a href="https://hns.to/" target="_blank"> Ho risolto. </a>
   </Layout>
 )
 
