@@ -38,7 +38,7 @@ const IndexPage = () => (
     </p>
 
     <p>
-    XYZKS YES YES PASS.
+    XYZKS YES YES PASS
     </p>
 
     <p> <br /> <br /> </p>
