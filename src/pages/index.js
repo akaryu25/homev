@@ -10,13 +10,12 @@ const IndexPage = () => (
     <Seo title="Home" />
     <StaticImage
       src="../images/indizio1.png"
-      width={600}
+      width={1200}
       quality={95}
       formats={["auto", "webp", "avif"]}
       alt="A piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
-    <p> </p>
     <p>
       <Link to="/indizio/">MCMLXXXVI</Link>
     </p>
