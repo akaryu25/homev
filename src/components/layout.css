@@ -8,13 +8,13 @@ html {
 }
 body {
   background-color: #282828;
-  margin: 0;
+  margin: 0.6rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #ffffff;
   font-family: oldnewspaper,georgia, serif;
   font-size: 1.5rem;
-  margin-bottom: 10.8rem;
+  
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
