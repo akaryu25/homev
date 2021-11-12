@@ -12,7 +12,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #ffffff;
-  font-family: selectric,oldnewspaper,georgia, serif;
+  font-family: oldnewspaper,georgia, serif;
+  font-size: 15px;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
