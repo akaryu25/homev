@@ -2,3 +2,18 @@
   font-family: "daisy";
   src: url("../fonts/daisywhl.otf");
 }
+
+@font-face {
+  font-family: "hammerkeys";
+  src: url("../fonts/HAMMK__.ttf");
+}
+
+@font-face {
+  font-family: "oldnewspaper";
+  src: url("../fonts/OldNewspapertypes.ttf");
+}
+
+@font-face {
+  font-family: "riesling";
+  src: url("../fonts/riesling.ttf");
+}
