@@ -9,9 +9,9 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
   
-    <p>A colui che decide di intraprendere un cammino, un viaggio alla ricerca di sé, del centro, del luogo della devozione, è dedicato questo piccolo ma intenso volume. L’homo viator, infatti, è il viaggiatore cristiano, intento a esplorare la spiritualità piú intima e nascosta attraverso un reale ed effettivo spostamento da un luogo all’altro.
+    <p>"A colui che decide di intraprendere un cammino, un viaggio alla ricerca di sé, del centro, del luogo della devozione, è dedicato questo piccolo ma intenso volume. L’homo viator, infatti, è il viaggiatore cristiano, intento a esplorare la spiritualità piú intima e nascosta attraverso un reale ed effettivo spostamento da un luogo all’altro.
     Partendo dalle sue origini antiche (il pellegrinaggio cristiano si fonda sulla tradizione ebraica della salita verso la Città Santa, nonché sulla consuetudine del viaggio alla volta di un centro sacrale – si pensi soltanto ai santuari oracolari – dell’antichità greco-romana), il volume affronta, con nuove e illuminanti riflessioni, l’intero fenomeno del pellegrinaggio xyzkevale, con i suoi protagonisti, i luoghi e gli oggetti che lo sostanziano.
-    Offrendo al lettore, credente o meno, piú di uno spunto perché si trasformi, egli stesso, in moderno… homo viator.
+    Offrendo al lettore, credente o meno, piú di uno spunto perché si trasformi, egli stesso, in moderno… homo viator."
     </p>
 
     <p>
